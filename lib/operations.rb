@@ -1,6 +1,6 @@
 def unsafe?(speed)
 if speed > 60
-  "your going the s"
+  "your going the speed li"
 end
 
 
