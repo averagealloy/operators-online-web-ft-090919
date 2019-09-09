@@ -14,6 +14,6 @@ if speed > 60
   true
 elsif speed < 40
   true
-else speed > 
+else speed > 40 
 end
 end
