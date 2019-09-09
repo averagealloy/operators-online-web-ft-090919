@@ -20,4 +20,4 @@ end
 end
 
 
-def not_
+def not_safe
