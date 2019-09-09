@@ -20,4 +20,4 @@ end
 end
 
 
-def not
+def not_
