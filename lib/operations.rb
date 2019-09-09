@@ -3,7 +3,7 @@ if speed > 60
   true
 elsif speed < 40
   true
-elsif 40 > speed < 60  speed > 
+elsif 40 > speed < 60  speed > 40 
 end
 end
 
