@@ -1,5 +1,5 @@
 def unsafe?(speed)
-speed < 60 ? true : flase
+speed < 60 ? true : f
 end
 
 
